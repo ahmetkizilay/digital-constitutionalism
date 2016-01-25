@@ -1,0 +1,558 @@
+From Type,From Name,EDGE TYPE,To Type,To Name,Weight,Reference
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Multistakeholder and participatory governance,1,preamble
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Multistakeholder and participatory governance,1,"preamble, 19"
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Multistakeholder and participatory governance,1,preamble
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Multistakeholder and participatory governance,1,2
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Multistakeholder and participatory governance,1,para. 9
+Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,ADDRESSES,Topic,Multistakeholder and participatory governance,1,5
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Multistakeholder and participatory governance,1,2
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Multistakeholder and participatory governance,1,"preamble,p2,p5"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Multistakeholder and participatory governance,1,"1.8.1,1.8.2"
+Document,Internet Rights Charter,ADDRESSES,Topic,Multistakeholder and participatory governance,1,6.1
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Multistakeholder and participatory governance,1,preamble
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Multistakeholder and participatory governance,1,24(I)
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Multistakeholder and participatory governance,1,14
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Multistakeholder and participatory governance,1,"17,48"
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Multistakeholder and participatory governance,1,4
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Multistakeholder and participatory governance,1,"12,p12"
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Transparency and openness,1,"preamble, a3"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Transparency and openness,1,19
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Transparency and openness,1,preamble
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Transparency and openness,1,2
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Transparency and openness,1,"princ.9,10"
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Transparency and openness,1,para. 9
+Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,ADDRESSES,Topic,Transparency and openness,1,6
+Document,Informed Societies: Towards a Code of Conduct for Government Leaders,ADDRESSES,Topic,Transparency and openness,1,"dimension1,dimension4"
+Document,Global Government Surveillance Reform,ADDRESSES,Topic,Transparency and openness,1,3
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Transparency and openness,1,2
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Transparency and openness,1,"p5,p8,p7"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Transparency and openness,1,"1.8.2,1.8.3"
+Document,Internet Rights Charter,ADDRESSES,Topic,Transparency and openness,1,"6.2,6.4"
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Transparency and openness,1,31
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Transparency and openness,1,24(I)
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Transparency and openness,1,11
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Transparency and openness,1,5
+Document,"Magna Carta for the Digital Age (My Digital Rights, 10 Clauses)",ADDRESSES,Topic,Transparency and openness,1,"3,7"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Transparency and openness,1,14
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Transparency and openness,1,48
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Transparency and openness,1,"3,7"
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Transparency and openness,1,"12,p12"
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Open data,1,para. 8
+Document,Internet Rights Charter,ADDRESSES,Topic,Open data,1,3.3
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Open data,1,"4(II), 24(VI)"
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Open data,1,"13, 27"
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Open data,1,3
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Open data,1,14
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Open data,1,"5,7,13,11"
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Open data,1,p4
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Right to participation,1,"15b, 19"
+Document,Digital Citizens' Bill of Rights,ADDRESSES,Topic,Right to participation,1,4
+Document,People's Communication Charter,ADDRESSES,Topic,Right to participation,1,10
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Right to participation,1,4
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Right to participation,1,"3(VII), 25(V)"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Right to participation,1,"preamble,14"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Digital inclusion,1,1c
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Digital inclusion,1,3
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Digital inclusion,1,para. 13
+Document,Internet Rights Charter,ADDRESSES,Topic,Digital inclusion,1,1.4
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Digital inclusion,1,"7(XII), 25(II), 27(I)"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Digital inclusion,1,13
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Digital inclusion,1,"24,29"
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Right to access the internet,1,a2
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Right to access the internet,1,"1, 15a"
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Right to access the internet,1,1
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Right to access the internet,1,3
+Document,Digital Citizens' Bill of Rights,ADDRESSES,Topic,Right to access the internet,1,7
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Right to access the internet,1,para. 3
+Document,People's Communication Charter,ADDRESSES,Topic,Right to access the internet,1,12
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Right to access the internet,1,5
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Right to access the internet,1,"preamble,p2"
+Document,Joint Declaration concerning the Internet,ADDRESSES,Topic,Right to access the internet,1,6a-f
+Document,Multistakeholder Statement,ADDRESSES,Topic,Right to access the internet,1,1.8.9
+Document,Internet Rights Charter,ADDRESSES,Topic,Right to access the internet,1,1
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Right to access the internet,1,"1,3"
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Right to access the internet,1,preamble
+Document,(Mashable) Crowdsourced Digital Bill of Rights,ADDRESSES,Topic,Right to access the internet,1,1
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Right to access the internet,1,4(I)
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Right to access the internet,1,12
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Right to access the internet,1,5
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Right to access the internet,1,4
+Document,"Magna Carta for the Digital Age (My Digital Rights, 10 Clauses)",ADDRESSES,Topic,Right to access the internet,1,5
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Right to access the internet,1,2
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Right to access the internet,1,24-28
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Right to access the internet,1,10
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Right to access the internet,1,"2,p2"
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Speed and affordability,1,a2
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Speed and affordability,1,a5
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Speed and affordability,1,1
+Document,Multistakeholder Statement,ADDRESSES,Topic,Speed and affordability,1,1.8.9
+Document,Internet Rights Charter,ADDRESSES,Topic,Speed and affordability,1,"1.6,1.1"
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Speed and affordability,1,3
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Speed and affordability,1,23
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Speed and affordability,1,"44,21,22"
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Speed and affordability,1,10
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Speed and affordability,1,"2,p2"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Access and skills in the workplace,1,14
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Access and skills in the workplace,1,para. 7
+Document,Internet Rights Charter,ADDRESSES,Topic,Access and skills in the workplace,1,1.7
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,User awareness and education,1,10
+Document,Internet Rights Charter,ADDRESSES,Topic,User awareness and education,1,7.1
+Document,Declaration of Internet Rights,ADDRESSES,Topic,User awareness and education,1,13
+Document,iRights,ADDRESSES,Topic,User awareness and education,1,4
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Media and digital literacy,1,10
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Media and digital literacy,1,para. 13
+Document,People's Communication Charter,ADDRESSES,Topic,Media and digital literacy,1,5
+Document,Informed Societies: Towards a Code of Conduct for Government Leaders,ADDRESSES,Topic,Media and digital literacy,1,dimension2
+Document,Joint Declaration concerning the Internet,ADDRESSES,Topic,Media and digital literacy,1,6f
+Document,Internet Rights Charter,ADDRESSES,Topic,Media and digital literacy,1,1.3
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Media and digital literacy,1,"24(XIII), 26"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Media and digital literacy,1,13
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Media and digital literacy,1,31
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Media and digital literacy,1,12
+Document,iRights,ADDRESSES,Topic,Media and digital literacy,1,5
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Media and digital literacy,1,p10
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Security of the network,1,3b
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Security of the network,1,8
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Security of the network,1,princ.11
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Security of the network,1,6
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Security of the network,1,14
+Document,Multistakeholder Statement,ADDRESSES,Topic,Security of the network,1,1.5
+Document,Internet Rights Charter,ADDRESSES,Topic,Security of the network,1,6.3
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Security of the network,1,3(V)
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Security of the network,1,17
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Security of the network,1,"9, 15"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Security of the network,1,12
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Security of the network,1,35-37
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Security of the network,1,9
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Net neutrality,1,1d
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Net neutrality,1,2
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Net neutrality,1,6
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Net neutrality,1,para. 10
+Document,Informed Societies: Towards a Code of Conduct for Government Leaders,ADDRESSES,Topic,Net neutrality,1,dimension4
+Document,Joint Declaration concerning the Internet,ADDRESSES,Topic,Net neutrality,1,"5a,5b"
+Document,Internet Rights Charter,ADDRESSES,Topic,Net neutrality,1,6.6
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Net neutrality,1,"3(IV), 9"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Net neutrality,1,12
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Net neutrality,1,"12, 37"
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Net neutrality,1,"4,2"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Net neutrality,1,3
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Net neutrality,1,"4,10"
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Net neutrality,1,p1
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Open standards,1,1b
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Open standards,1,9
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Open standards,1,para. 10
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Open standards,1,8
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Open standards,1,2
+Document,Multistakeholder Statement,ADDRESSES,Topic,Open standards,1,1.9
+Document,Internet Rights Charter,ADDRESSES,Topic,Open standards,1,"4.3,6.5"
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Open standards,1,"4(IV), 24(V)"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Open standards,1,"12, 23"
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Open standards,1,13/11/2015
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Open standards,1,3
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Open standards,1,44
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Open standards,1,"4,9"
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Open standards,1,r8
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Interoperability and non-fragmentation,1,1b
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Interoperability and non-fragmentation,1,9
+Document,Global Government Surveillance Reform,ADDRESSES,Topic,Interoperability and non-fragmentation,1,4
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Interoperability and non-fragmentation,1,8
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Interoperability and non-fragmentation,1,"1,4,2"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Interoperability and non-fragmentation,1,"1.9,1.4"
+Document,Internet Rights Charter,ADDRESSES,Topic,Interoperability and non-fragmentation,1,"6.3,6.7"
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Interoperability and non-fragmentation,1,"4(IV), 24(III, IV)"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Interoperability and non-fragmentation,1,12
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Interoperability and non-fragmentation,1,"11, 36, 79"
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Interoperability and non-fragmentation,1,4
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Interoperability and non-fragmentation,1,"11,preamble"
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Interoperability and non-fragmentation,1,44
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Interoperability and non-fragmentation,1,"p1,p3"
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Stability and reliability of the network,1,8
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Stability and reliability of the network,1,"8,6"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Stability and reliability of the network,1,1.5
+Document,Internet Rights Charter,ADDRESSES,Topic,Stability and reliability of the network,1,6.3
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Stability and reliability of the network,1,3(V)
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Stability and reliability of the network,1,"36, 37"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Stability and reliability of the network,1,12
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Free and open source software,1,11f
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Free and open source software,1,para. 10
+Document,Internet Rights Charter,ADDRESSES,Topic,Free and open source software,1,4.2
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Free and open source software,1,24(V)
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Free and open source software,1,20
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Free and open source software,1,38
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Free and open source software,1,3
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Device Rights,1,a5
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Device Rights,1,1b
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Device Rights,1,9
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Device Rights,1,"3,4"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Device Rights,1,12
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Device Rights,1,11
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Device Rights,1,2
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Device Rights,1,2
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Freedom of expression,1,a1
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Freedom of expression,1,a3
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Freedom of expression,1,"5b, 5d"
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Freedom of expression,1,3
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Freedom of expression,1,1
+Document,Digital Citizens' Bill of Rights,ADDRESSES,Topic,Freedom of expression,1,6
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Freedom of expression,1,preamble
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Freedom of expression,1,para 4
+Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,ADDRESSES,Topic,Freedom of expression,1,2
+Document,Informed Societies: Towards a Code of Conduct for Government Leaders,ADDRESSES,Topic,Freedom of expression,1,dimension2
+Document,Global Government Surveillance Reform,ADDRESSES,Topic,Freedom of expression,1,preamble
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Freedom of expression,1,"1,11,preamble"
+Document,Joint Declaration concerning the Internet,ADDRESSES,Topic,Freedom of expression,1,"6a,6b,6e,3,4b"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Freedom of expression,1,1.1.1
+Document,Internet Rights Charter,ADDRESSES,Topic,Freedom of expression,1,2.1
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Freedom of expression,1,2
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Freedom of expression,1,"1,2,3,4,5,7,8,9"
+Document,(Mashable) Crowdsourced Digital Bill of Rights,ADDRESSES,Topic,Freedom of expression,1,"2,3"
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Freedom of expression,1,"2, 3(I)"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Freedom of expression,1,14
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Freedom of expression,1,4
+Document,"Magna Carta for the Digital Age (My Digital Rights, 10 Clauses)",ADDRESSES,Topic,Freedom of expression,1,"2,8,3,6,9,4"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Freedom of expression,1,12
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Freedom of expression,1,4
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Freedom of expression,1,5
+Document,iRights,ADDRESSES,Topic,Freedom of expression,1,1
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Freedom of expression,1,"3,p3"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Freedom of (religious) belief,1,6
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Freedom of (religious) belief,1,58
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Freedom of information,1,a1
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Freedom of information,1,a3
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Freedom of information,1,5c
+Document,Digital Citizens' Bill of Rights,ADDRESSES,Topic,Freedom of information,1,1
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Freedom of information,1,preamble
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Freedom of information,1,para. 4
+Document,People's Communication Charter,ADDRESSES,Topic,Freedom of information,1,6
+Document,Informed Societies: Towards a Code of Conduct for Government Leaders,ADDRESSES,Topic,Freedom of information,1,dimension2
+Document,Global Government Surveillance Reform,ADDRESSES,Topic,Freedom of information,1,4
+Document,Joint Declaration concerning the Internet,ADDRESSES,Topic,Freedom of information,1,"6,preamble,3"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Freedom of information,1,1.1.5
+Document,Internet Rights Charter,ADDRESSES,Topic,Freedom of information,1,"3.2,3.1"
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Freedom of information,1,2
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Freedom of information,1,7
+Document,(Mashable) Crowdsourced Digital Bill of Rights,ADDRESSES,Topic,Freedom of information,1,3
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Freedom of information,1,4(II)
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Freedom of information,1,21
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Freedom of information,1,4
+Document,"Magna Carta for the Digital Age (My Digital Rights, 10 Clauses)",ADDRESSES,Topic,Freedom of information,1,"2,8,3,6,9,4"
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Freedom of information,1,55
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Freedom of information,1,5
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Freedom of information,1,"3,p3,4,p4"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Freedom of association,1,5a
+Document,Digital Citizens' Bill of Rights,ADDRESSES,Topic,Freedom of association,1,8
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Freedom of association,1,preamble
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Freedom of association,1,"1,preamble"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Freedom of association,1,1.1.2
+Document,Internet Rights Charter,ADDRESSES,Topic,Freedom of association,1,2.3
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Freedom of association,1,9
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Freedom of association,1,15
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Freedom of association,1,"2,5"
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Democracy and the rule of law,1,a2
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Democracy and the rule of law,1,10
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Democracy and the rule of law,1,preamble
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Democracy and the rule of law,1,"para. 3, 9"
+Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,ADDRESSES,Topic,Democracy and the rule of law,1,"2,3,6"
+Document,Global Government Surveillance Reform,ADDRESSES,Topic,Democracy and the rule of law,1,preamble
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Democracy and the rule of law,1,1
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Democracy and the rule of law,1,"preamble,8"
+Document,Internet Rights Charter,ADDRESSES,Topic,Democracy and the rule of law,1,"7.1,6.1"
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Democracy and the rule of law,1,8
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Democracy and the rule of law,1,3(VI)
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Democracy and the rule of law,1,[nature of the document]
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Democracy and the rule of law,1,"preamble,14"
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Democracy and the rule of law,1,"48,3,39"
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Democracy and the rule of law,1,"3,5,12"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Right to due process,1,"18c,10b"
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Right to due process,1,"princ.1, 7"
+Document,Global Government Surveillance Reform,ADDRESSES,Topic,Right to due process,1,"preamble, 2"
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Right to due process,1,3
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Right to due process,1,"19, [nature of law]"
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Right to due process,1,"5, [nature of the document]"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Right to due process,1,7
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Right to due process,1,13
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Right to due process,1,"11,p3"
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Right to legal remedies,1,a8
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Right to legal remedies,1,10a
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Right to legal remedies,1,princ.13
+Document,People's Communication Charter,ADDRESSES,Topic,Right to legal remedies,1,7
+Document,Internet Rights Charter,ADDRESSES,Topic,Right to legal remedies,1,7.2
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Right to legal remedies,1,30
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Right to legal remedies,1,29
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Right to legal remedies,1,[nature of the document]
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Right to legal remedies,1,13
+Document,iRights,ADDRESSES,Topic,Right to legal remedies,1,1
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Right to personal security and dignity,1,"3a, 5e"
+Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,ADDRESSES,Topic,Right to personal security and dignity,1,"2,3"
+Document,People's Communication Charter,ADDRESSES,Topic,Right to personal security and dignity,1,14
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Right to personal security and dignity,1,preamble
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Right to personal security and dignity,1,"10, 23"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Right to personal security and dignity,1,12
+Document,iRights,ADDRESSES,Topic,Right to personal security and dignity,1,3
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Right to personal security and dignity,1,"9,10"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Protection of children,1,12
+Document,People's Communication Charter,ADDRESSES,Topic,Protection of children,1,"11,16"
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Protection of children,1,"preamble,1"
+Document,Joint Declaration concerning the Internet,ADDRESSES,Topic,Protection of children,1,"6eiii,3a,preamble"
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Protection of children,1,29
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Protection of children,1,12
+Document,iRights,ADDRESSES,Topic,Protection of children,1,"1,2,3,4,5"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Non-discrimination,1,"2a,2b,2c"
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Non-discrimination,1,3
+Document,Digital Citizens' Bill of Rights,ADDRESSES,Topic,Non-discrimination,1,3
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Non-discrimination,1,princ.2
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Non-discrimination,1,para. 3
+Document,Joint Declaration concerning the Internet,ADDRESSES,Topic,Non-discrimination,1,"6e,5a"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Non-discrimination,1,1.1.4
+Document,Internet Rights Charter,ADDRESSES,Topic,Non-discrimination,1,"1.2,1.5"
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Non-discrimination,1,1
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Non-discrimination,1,"preamble, 23"
+Document,(Mashable) Crowdsourced Digital Bill of Rights,ADDRESSES,Topic,Non-discrimination,1,2
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Non-discrimination,1,12
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Non-discrimination,1,37
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Non-discrimination,1,"3,4,12,2"
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Non-discrimination,1,"10,13,14"
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Non-discrimination,1,"p1,p2,10,p10,p11"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Cultural & linguistic diversity,1,"11a,11b,11c, 19"
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Cultural & linguistic diversity,1,5
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Cultural & linguistic diversity,1,4
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Cultural & linguistic diversity,1,para. 14
+Document,People's Communication Charter,ADDRESSES,Topic,Cultural & linguistic diversity,1,"8,9"
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Cultural & linguistic diversity,1,10
+Document,Multistakeholder Statement,ADDRESSES,Topic,Cultural & linguistic diversity,1,1.3
+Document,Internet Rights Charter,ADDRESSES,Topic,Cultural & linguistic diversity,1,1.9
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Cultural & linguistic diversity,1,preamble
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Cultural & linguistic diversity,1,2(III)
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Cultural & linguistic diversity,1,preamble
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Cultural & linguistic diversity,1,52-54
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Cultural & linguistic diversity,1,"6,p6,r3,r6"
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Privacy rights (generalized),1,a5
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Privacy rights (generalized),1,a8
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Privacy rights (generalized),1,9
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Privacy rights (generalized),1,4
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Privacy rights (generalized),1,1
+Document,Digital Citizens' Bill of Rights,ADDRESSES,Topic,Privacy rights (generalized),1,9
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Privacy rights (generalized),1,preamble
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Privacy rights (generalized),1,para. 5
+Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,ADDRESSES,Topic,Privacy rights (generalized),1,2
+Document,People's Communication Charter,ADDRESSES,Topic,Privacy rights (generalized),1,13
+Document,Informed Societies: Towards a Code of Conduct for Government Leaders,ADDRESSES,Topic,Privacy rights (generalized),1,dimension3
+Document,Global Government Surveillance Reform,ADDRESSES,Topic,Privacy rights (generalized),1,"preamble, 1"
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Privacy rights (generalized),1,8
+Document,Multistakeholder Statement,ADDRESSES,Topic,Privacy rights (generalized),1,1.1.3
+Document,Internet Rights Charter,ADDRESSES,Topic,Privacy rights (generalized),1,5
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Privacy rights (generalized),1,"4,5,6"
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Privacy rights (generalized),1,"3,12"
+Document,(Mashable) Crowdsourced Digital Bill of Rights,ADDRESSES,Topic,Privacy rights (generalized),1,7
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Privacy rights (generalized),1,"3(II), 7(I), 8, 8(I), 10"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Privacy rights (generalized),1,"16, 22"
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Privacy rights (generalized),1,"8, 45"
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Privacy rights (generalized),1,4
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Privacy rights (generalized),1,4
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Privacy rights (generalized),1,"58,35"
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Privacy rights (generalized),1,1
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Privacy rights (generalized),1,"8,p7"
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Data protection,1,a8
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Data protection,1,9b
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Data protection,1,4
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Data protection,1,princ. 5
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Data protection,1,para. 5
+Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,ADDRESSES,Topic,Data protection,1,3
+Document,Informed Societies: Towards a Code of Conduct for Government Leaders,ADDRESSES,Topic,Data protection,1,dimension3
+Document,Internet Rights Charter,ADDRESSES,Topic,Data protection,1,5.1
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Data protection,1,"3(II), 7(VIII) 11"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Data protection,1,"16, 22"
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Data protection,1,9
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Data protection,1,4
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Data protection,1,1
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Data protection,1,p7
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Control and self determination,1,a5
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Control and self determination,1,8b
+Document,(Mashable) Crowdsourced Digital Bill of Rights,ADDRESSES,Topic,Control and self determination,1,"6,4"
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Control and self determination,1,"7(VII, IX, X) 16"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Control and self determination,1,16
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Control and self determination,1,45
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Control and self determination,1,4
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Control and self determination,1,"4,5,11"
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Control and self determination,1,2
+Document,iRights,ADDRESSES,Topic,Control and self determination,1,1
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Control and self determination,1,8
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Right to anonymity,1,"8d,8f"
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Right to anonymity,1,4
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Right to anonymity,1,princ.11
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Right to anonymity,1,6
+Document,(Mashable) Crowdsourced Digital Bill of Rights,ADDRESSES,Topic,Right to anonymity,1,9
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Right to anonymity,1,"19, 22"
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Right to anonymity,1,4
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Right to anonymity,1,9
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Right to anonymity,1,8
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Protection from surveillance,1,8f
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Protection from surveillance,1,4
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Protection from surveillance,1,"preamble, princ.1-13"
+Document,People's Communication Charter,ADDRESSES,Topic,Protection from surveillance,1,"12,13"
+Document,Global Government Surveillance Reform,ADDRESSES,Topic,Protection from surveillance,1,"preamble, 1"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Protection from surveillance,1,1.1.3
+Document,Internet Rights Charter,ADDRESSES,Topic,Protection from surveillance,1,5.2
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Protection from surveillance,1,6
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Protection from surveillance,1,"preamble,3,12"
+Document,(Mashable) Crowdsourced Digital Bill of Rights,ADDRESSES,Topic,Protection from surveillance,1,"10,8"
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Protection from surveillance,1,"7(II, III), 10"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Protection from surveillance,1,"13, 22"
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Protection from surveillance,1,4
+Document,"Magna Carta for the Digital Age (My Digital Rights, 10 Clauses)",ADDRESSES,Topic,Protection from surveillance,1,6
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Protection from surveillance,1,"5,6"
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Protection from surveillance,1,"6,7"
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Protection from surveillance,1,p8
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Right to encryption,1,8e
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Right to encryption,1,4
+Document,Internet Rights Charter,ADDRESSES,Topic,Right to encryption,1,5.3
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Right to encryption,1,7
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Right to encryption,1,"18, 22"
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Right to encryption,1,8
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Right to encryption,1,4
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Right to encryption,1,9
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Right to encryption,1,"8,9"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Right to be forgotten,1,16
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Right to be forgotten,1,"8,10"
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Right to be forgotten,1,"1,2"
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Innovation,1,a4
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Innovation,1,a4
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Innovation,1,5
+Document,Digital Citizens' Bill of Rights,ADDRESSES,Topic,Innovation,1,5
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Innovation,1,11
+Document,Multistakeholder Statement,ADDRESSES,Topic,Innovation,1,1.7
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Innovation,1,"3(VIII), 4(III)"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Innovation,1,20
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Innovation,1,7
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Innovation,1,preamble
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Innovation,1,1
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Competition,1,a7
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Competition,1,para 10
+Document,Informed Societies: Towards a Code of Conduct for Government Leaders,ADDRESSES,Topic,Competition,1,dimension4
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Competition,1,3
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Competition,1,"2(V), 9(IV)"
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Competition,1,"1,2"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Competition,1,"preamble,11"
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Competition,1,"23,27,34"
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Competition,1,10
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Competition,1,1
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Economic development,1,4a
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Economic development,1,"para. 3, 7"
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Economic development,1,"11,preamble,3"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Economic development,1,1.1.6
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Economic development,1,23
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Economic development,1,preamble
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Economic development,1,"41,42"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Intellectual Property,1,"11d,11e"
+Document,Digital Citizens' Bill of Rights,ADDRESSES,Topic,Intellectual Property,1,10
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Intellectual Property,1,para. 11
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Intellectual Property,1,11
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Intellectual Property,1,4
+Document,(Mashable) Crowdsourced Digital Bill of Rights,ADDRESSES,Topic,Intellectual Property,1,5
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Intellectual Property,1,"35, 38 39"
+Document,"Charter for Innovation, Creativity, and Access to Knowledge",ADDRESSES,Topic,Intellectual Property,1,2
+Document,Declaration of Principles: Building the Information Society,ADDRESSES,Topic,Intellectual Property,1,42
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Intermediary liability,1,a4
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Intermediary liability,1,a4
+Document,Principles for the Governance and Use of the Internet - Brazil,ADDRESSES,Topic,Intermediary liability,1,7
+Document,Communiqué on Principles for Internet Policy-Making,ADDRESSES,Topic,Intermediary liability,1,13
+Document,Joint Declaration concerning the Internet,ADDRESSES,Topic,Intermediary liability,1,"2a,2b"
+Document,Multistakeholder Statement,ADDRESSES,Topic,Intermediary liability,1,1.2
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Intermediary liability,1,18
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Intermediary liability,1,25
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Intermediary liability,1,p3
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Corporate responsibility,1,a8
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Corporate responsibility,1,"9b, 20b"
+Document,Post-WCIT statement: Governing the Internet,ADDRESSES,Topic,Corporate responsibility,1,3
+Document,International Principles on the Application of Human Rights to Communications Surveillance,ADDRESSES,Topic,Corporate responsibility,1,scope sec.
+Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,ADDRESSES,Topic,Corporate responsibility,1,4
+Document,Global Government Surveillance Reform,ADDRESSES,Topic,Corporate responsibility,1,preamble
+Document,Declaration on Internet governance principles,ADDRESSES,Topic,Corporate responsibility,1,"1,2"
+Document,Geneva Declaration on Internet Freedom,ADDRESSES,Topic,Corporate responsibility,1,"8,9"
+Document,Internet Rights Are Human Rights,ADDRESSES,Topic,Corporate responsibility,1,27-31
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Corporate responsibility,1,"3(VI), [nature of law]"
+Document,Green Party's Internet Rights and Freedom Bill - New Zealand,ADDRESSES,Topic,Corporate responsibility,1,"6, 24"
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Corporate responsibility,1,2
+Document,"Magna Carta for the Digital Age (My Digital Rights, 10 Clauses)",ADDRESSES,Topic,Corporate responsibility,1,10
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Corporate responsibility,1,11
+Document,African Declaration on Internet Rights and Freedoms,ADDRESSES,Topic,Corporate responsibility,1,rec.7
+Document,Declaration of Internet Freedom,ADDRESSES,Topic,Consumer protection,1,"a2, a8"
+Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),ADDRESSES,Topic,Consumer protection,1,16
+Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",ADDRESSES,Topic,Consumer protection,1,para. 6
+Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,ADDRESSES,Topic,Consumer protection,1,"preamble (1), 4"
+Document,People's Communication Charter,ADDRESSES,Topic,Consumer protection,1,16
+Document,Marco Civil da Internet - Brazil,ADDRESSES,Topic,Consumer protection,1,"2(V), 7(XIII)"
+Document,Magna Carta for Internet Freedom - The Philippines,ADDRESSES,Topic,Consumer protection,1,"15, 37"
+Document,Declaration of Internet Rights,ADDRESSES,Topic,Consumer protection,1,11
+Document,Internet Bill of Rights Proposal,ADDRESSES,Topic,Consumer protection,1,8
+Document,iRights,ADDRESSES,Topic,Consumer protection,1,4
+Actor,ACLU,ACTED_IN,Document,Declaration of Internet Freedom,1,
+Actor,EFF,ACTED_IN,Document,Declaration of Internet Freedom,1,
+Actor,Free Press,ACTED_IN,Document,Declaration of Internet Freedom,1,
+Actor,Access Now,ACTED_IN,Document,Declaration of Internet Freedom,1,
+Actor,CREDO,ACTED_IN,Document,Declaration of Internet Freedom,1,
+Actor,TechFreedom,ACTED_IN,Document,Declaration of Internet Freedom,1,
+Actor,Digital Liberty,ACTED_IN,Document,Declaration of Internet Freedom,1,
+Actor,etc.,ACTED_IN,Document,Declaration of Internet Freedom,1,
+Actor,"IGF and UN:  Internet Rights & Principles Dynamic
+Coalition",ACTED_IN,Document,Charter (2.0) of Human Rights and Principles for the Internet (4th ed),1,
+Actor,Rio Workshop (WCIT),ACTED_IN,Document,Post-WCIT statement: Governing the Internet,1,
+Actor,Brazil Internet Steering Committee (CGI.Br),ACTED_IN,Document,Principles for the Governance and Use of the Internet - Brazil,1,
+Actor,United States Congressman Darell Issa,ACTED_IN,Document,Digital Citizens' Bill of Rights,1,
+Actor,EFF-led Coalition,ACTED_IN,Document,International Principles on the Application of Human Rights to Communications Surveillance,1,
+Actor,Civil Society and the Trade Union Advisory Committee to the OECD,ACTED_IN,Document,"Seoul Declaration
+to the OECD Ministerial Conference on the future of the Internet economy",1,
+Actor,Global Network Initiative,ACTED_IN,Document,Global Network Initiative (GNI) Principles on Freedom of Expression and Privacy,1,
+Actor,People's Communication Charter Coalition,ACTED_IN,Document,People's Communication Charter,1,
+Actor,World Economic Forum,ACTED_IN,Document,Informed Societies: Towards a Code of Conduct for Government Leaders,1,
+Actor,AOL,ACTED_IN,Document,Global Government Surveillance Reform,1,
+Actor,Google,ACTED_IN,Document,Global Government Surveillance Reform,1,
+Actor,Apple,ACTED_IN,Document,Global Government Surveillance Reform,1,
+Actor,Dropbox,ACTED_IN,Document,Global Government Surveillance Reform,1,
+Actor,Linkedin,ACTED_IN,Document,Global Government Surveillance Reform,1,
+Actor,Microsoft,ACTED_IN,Document,Global Government Surveillance Reform,1,
+Actor,Yahoo,ACTED_IN,Document,Global Government Surveillance Reform,1,
+Actor,Twitter,ACTED_IN,Document,Global Government Surveillance Reform,1,
+Actor,Evernote,ACTED_IN,Document,Global Government Surveillance Reform,1,
+Actor,Council of Europe,ACTED_IN,Document,Declaration on Internet governance principles,1,
+Actor,OECD,ACTED_IN,Document,Communiqué on Principles for Internet Policy-Making,1,
+Actor,UN,ACTED_IN,Document,Joint Declaration concerning the Internet,1,
+Actor,OAS,ACTED_IN,Document,Joint Declaration concerning the Internet,1,
+Actor,OSCE,ACTED_IN,Document,Joint Declaration concerning the Internet,1,
+Actor,ACHPR Freedom of Expression Rapporteurs,ACTED_IN,Document,Joint Declaration concerning the Internet,1,
+Actor,NETmundial,ACTED_IN,Document,Multistakeholder Statement,1,
+Actor,Association for Progressive Communications,ACTED_IN,Document,Internet Rights Charter,1,
+Actor,Geneva Summit for Human Rights and Democracy,ACTED_IN,Document,Geneva Declaration on Internet Freedom,1,
+Actor,Association for Progressive Communications,ACTED_IN,Document,Internet Rights Are Human Rights,1,
+Actor,Mashable,ACTED_IN,Document,(Mashable) Crowdsourced Digital Bill of Rights,1,
+Actor,Brazil,ACTED_IN,Document,Marco Civil da Internet - Brazil,1,
+Actor,New Zealand (Green Party),ACTED_IN,Document,Green Party's Internet Rights and Freedom Bill - New Zealand,1,
+Actor,Philippines,ACTED_IN,Document,Magna Carta for Internet Freedom - The Philippines,1,
+Actor,FC Forum,ACTED_IN,Document,"Charter for Innovation, Creativity, and Access to Knowledge",1,
+Actor,British Library,ACTED_IN,Document,"Magna Carta for the Digital Age (My Digital Rights, 10 Clauses)",1,
+Actor,Italy,ACTED_IN,Document,Declaration of Internet Rights,1,
+Actor,World Summit on the Information Society (ITU),ACTED_IN,Document,Declaration of Principles: Building the Information Society,1,
+Actor,UK Liberal Democrats,ACTED_IN,Document,Internet Bill of Rights Proposal,1,
+Actor,iRights Coalition,ACTED_IN,Document,iRights,1,
+Actor,African Declaration coalition,ACTED_IN,Document,African Declaration on Internet Rights and Freedoms,1,
